@@ -18,7 +18,7 @@ import java.awt.Toolkit;
 public class Calc extends JFrame {
 
 	/**
-	 * 
+	 * UI calculator 
 	 */
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
